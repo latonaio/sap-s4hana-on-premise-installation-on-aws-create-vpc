@@ -1,0 +1,30 @@
+{
+  "name": "sap-s4hana-on-premise-installation-on-aws-create-vpc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/latonaio/sap-s4hana-on-premise-installation-on-aws-create-vpc.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/latonaio/sap-s4hana-on-premise-installation-on-aws-create-vpc/issues"
+  },
+  "homepage": "https://github.com/latonaio/sap-s4hana-on-premise-installation-on-aws-create-vpc#readme",
+  "devDependencies": {
+    "aws-sdk": "^2.1047.0",
+    "prettier": "^2.5.1",
+    "yargs": "^17.3.0"
+  },
+  "dependencies": {
+    "@types/node": "^17.0.2",
+    "@types/yargs": "^17.0.7",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.4"
+  }
+}

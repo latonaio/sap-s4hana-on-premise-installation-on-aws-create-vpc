@@ -1,0 +1,9 @@
+{
+  "VpcCidrParam": "10.0.0.0/16",
+  "PrivateAZASubnetBlock": "10.0.1.0/24",
+  "PublicAZASubnetBlock": "10.0.241.0/24",
+  "PrivateAZBSubnetBlock": "10.0.2.0/24",
+  "PublicAZBSubnetBlock": "10.0.242.0/24",
+  "HighlyAvailableNat": "false",
+  "EnableVpcFlowLogs": "false"
+}
